@@ -1,0 +1,10 @@
+.ItemView-sideColumn{
+	display:none !important;	
+}
+.ItemView-mainColumn{
+	width: 100% !important;
+}
+.CoreLayout-headerContainer{
+	position: absolute !important;
+}
+
